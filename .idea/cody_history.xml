@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjoyMzY=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="348a5489-d3df-4ac3-b949-20a9d471430d" />
+              </chat>
+              <chat>
+                <internalId value="9ae97ce9-32ac-4dfe-87be-a6ca3cafab1f" />
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="how do I change my github account on intellij" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="# Changing Your GitHub Account in IntelliJ&#10;&#10;Here are the main ways to update your GitHub account:&#10;&#10;## 1. **Via Settings (Recommended)**&#10;&#10;1. Go to **File → Settings** (or **IntelliJ IDEA → Preferences** on macOS)&#10;2. Navigate to **Version Control → GitHub**&#10;3. Click the **+** button to add a new acc" />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2025-11-09T14:21:54.7976584" />
+              </chat>
+            </list>
+          </chats>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>
