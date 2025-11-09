@@ -26,8 +26,71 @@
                 </messages>
                 <updatedAt value="2025-11-09T14:21:54.7976584" />
               </chat>
+              <chat>
+                <internalId value="10e7546d-0fc2-4778-817f-575c939bc1ad" />
+                <llm>
+                  <llm>
+                    <model value="claude-4-5-sonnet" />
+                    <provider value="aws-bedrock" />
+                    <tags>
+                      <list>
+                        <option value="balanced" />
+                        <option value="enterprise" />
+                      </list>
+                    </tags>
+                    <title value="Claude Haiku 4.5" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="252dbc5e-e635-46f7-8327-471bc515aa7b" />
+                <llm>
+                  <llm>
+                    <model value="claude-4-5-sonnet" />
+                    <provider value="aws-bedrock" />
+                    <tags>
+                      <list>
+                        <option value="balanced" />
+                        <option value="enterprise" />
+                      </list>
+                    </tags>
+                    <title value="Claude Haiku 4.5" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
             </list>
           </chats>
+          <defaultLlm>
+            <llm>
+              <model value="claude-4-5-sonnet" />
+              <provider value="aws-bedrock" />
+              <tags>
+                <list>
+                  <option value="balanced" />
+                  <option value="enterprise" />
+                </list>
+              </tags>
+              <title value="Claude Haiku 4.5" />
+              <usage>
+                <list>
+                  <option value="chat" />
+                  <option value="edit" />
+                </list>
+              </usage>
+            </llm>
+          </defaultLlm>
         </AccountData>
       </list>
     </accountData>
